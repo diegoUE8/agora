@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/actarian/agora.git"
+    "url": "git://github.com/diegoUE8/agora.git"
   },
   "engines": {
     "node": "10.x"
